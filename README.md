@@ -14,22 +14,22 @@
 <p class="section-content">
          Explore Bali! 
 </p>
-![bali](https://github.com/saisujay7794/potato-disease-classifier/assets/84466055/0d88d562-ee9c-471d-8031-aa913a9460cb)
+![bali](https://github.com/saisujay7794/CodeKaro-Day2-Positions/assets/84466055/6d620076-b78c-42ba-9426-2555f339e147)
 <br>
 <br>
 <p class="section-content">
          Restaurant card! 
 </p>
-![central point](https://github.com/saisujay7794/potato-disease-classifier/assets/84466055/3b193636-ca38-4071-8c77-f064ed00afcc)
+![central point](https://github.com/saisujay7794/CodeKaro-Day2-Positions/assets/84466055/73999363-babd-45fe-a3df-f7d72f8c2eb1)
 <br>
 <br>
 <p class="section-content">
          Profile card!
 </p>
-![profile](https://github.com/saisujay7794/potato-disease-classifier/assets/84466055/710870bd-b4ec-40e6-aae1-2b02bfed5686)
+![profile](https://github.com/saisujay7794/CodeKaro-Day2-Positions/assets/84466055/899b7280-f5d3-4d98-a8d1-c24ccd1f5c9d)
 <br>
 <br>
 <p class="section-content">
          Zomato page!
 </p>
-![zomato](https://github.com/saisujay7794/potato-disease-classifier/assets/84466055/da6ab8ec-aef4-40e1-bfca-430c9e69aa44)
+![zomato](https://github.com/saisujay7794/CodeKaro-Day2-Positions/assets/84466055/6ea4d2df-4ee6-4af1-81ec-f2b51f0d0752)
